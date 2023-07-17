@@ -48,6 +48,7 @@ const Navbar = () => {
           element: "div",
           className:
             "border border-solid text-gray-300 h-6 sm:mr-auto sm:ml-2.5",
+          child: "",
         }),
       ],
     }),
