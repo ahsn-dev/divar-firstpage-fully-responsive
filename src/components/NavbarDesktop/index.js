@@ -20,6 +20,7 @@ const NavbarDesktop = () => {
         El({
           element: "div",
           className: "border border-solid text-gray-100 h-6",
+          child: "",
         }),
         El({
           element: "button",
