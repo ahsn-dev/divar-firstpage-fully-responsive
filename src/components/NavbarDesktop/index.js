@@ -1,4 +1,5 @@
 import El from "../../library/El";
+import divarLogo from "../images/divarLogo.jpg";
 
 const NavbarDesktop = () => {
   return El({
@@ -13,7 +14,7 @@ const NavbarDesktop = () => {
           element: "a",
           child: El({
             element: "img",
-            src: "/images/divar-logo.png",
+            src: divarLogo,
           }),
         }),
         El({
