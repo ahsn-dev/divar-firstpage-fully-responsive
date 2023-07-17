@@ -13,7 +13,7 @@ const NavbarDesktop = () => {
           element: "a",
           child: El({
             element: "img",
-            src: "src/images/divar-logo.png",
+            src: "/images/divar-logo.png",
             className: "",
             child: "",
           }),
