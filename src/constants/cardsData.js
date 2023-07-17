@@ -7,13 +7,13 @@ export const cardsData = [
     agency: "آژانس املاک نگین اقدسیه در اقدسیه",
   },
   {
-    imageSrc: "src/images/house.jpg",
+    imageSrc: "/images/house.jpg",
     title: "۲۵۰ متر فرمانیه بوستان لوکیشن دیپلمات",
     price: "۱۹٫۸۰۰٫۰۰۰٫۰۰۰",
     agency: "آژانس املاک نگین اقدسیه در اقدسیه",
   },
   {
-    imageSrc: "src/images/house.jpg",
+    imageSrc: "images/house.jpg",
     title: "۲۵۰ متر فرمانیه بوستان لوکیشن دیپلمات",
     price: "۱۹٫۸۰۰٫۰۰۰٫۰۰۰",
     agency: "آژانس املاک نگین اقدسیه در اقدسیه",
