@@ -11,7 +11,6 @@ const AsideDesktop = () => {
         element: "aside",
         child: El({
           element: "div",
-          className: "",
           child: [
             El({
               element: "section",
@@ -350,17 +349,17 @@ const AsideDesktop = () => {
             child: [
               El({
                 element: "img",
-                src: "images/enamad.png",
+                src: "/images/enamad.png",
                 className: "w-[84px] h-[91px]",
               }),
               El({
                 element: "img",
-                src: "images/etehadie.png",
+                src: "/images/etehadie.png",
                 className: "w-[84px] h-[91px]",
               }),
               El({
                 element: "img",
-                src: "images/samandehi.png",
+                src: "/images/samandehi.png",
                 className: "w-[84px] h-[84px]",
               }),
             ],

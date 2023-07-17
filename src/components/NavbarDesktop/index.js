@@ -13,15 +13,12 @@ const NavbarDesktop = () => {
           element: "a",
           child: El({
             element: "img",
-            src: "images/divar-logo.png",
-            className: "",
-            child: "",
+            src: "/images/divar-logo.png",
           }),
         }),
         El({
           element: "div",
           className: "border border-solid text-gray-100 h-6",
-          child: "",
         }),
         El({
           element: "button",
@@ -137,7 +134,6 @@ const NavbarDesktop = () => {
                     "flex items-center text-white bg-red-700 px-4 py-2 rounded hover:bg-red-600 transition",
                   child: El({
                     element: "span",
-                    className: "",
                     child: "ثبت آگهی",
                   }),
                 }),
