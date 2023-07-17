@@ -1,5 +1,6 @@
 import El from "../../library/El";
 import { cardsData } from "../../constants/cardsData";
+
 const Cards = () => {
   return El({
     element: "div",
