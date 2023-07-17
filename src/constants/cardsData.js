@@ -1,4 +1,4 @@
-import house from "/images/house.jpg";
+import house from "src/images/house.jpg";
 
 export const cardsData = [
   {
