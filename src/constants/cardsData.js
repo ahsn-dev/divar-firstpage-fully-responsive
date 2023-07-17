@@ -1,8 +1,8 @@
-import house from "src/images/house.jpg";
+import house from "../images/house.jpg";
 
 export const cardsData = [
   {
-    imageSrc: { house },
+    imageSrc: house,
     title: "۲۵۰ متر فرمانیه بوستان لوکیشن دیپلمات",
     price: "۱۹٫۸۰۰٫۰۰۰٫۰۰۰",
     agency: "آژانس املاک نگین اقدسیه در اقدسیه",
