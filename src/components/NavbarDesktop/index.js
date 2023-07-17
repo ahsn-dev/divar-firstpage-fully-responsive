@@ -1,5 +1,5 @@
 import El from "../../library/El";
-import divarLogo from "../images/divarLogo.jpg";
+import divarLogo from "../../images/divarLogo.png";
 
 const NavbarDesktop = () => {
   return El({

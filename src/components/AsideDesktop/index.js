@@ -1,7 +1,7 @@
 import El from "../../library/El";
-import enamad from "../images/enamad.jpg";
-import etehadie from "../images/etehadie.jpg";
-import samandehi from "../images/samandehi.jpg";
+import enamad from "../../images/enamad.png";
+import etehadie from "../../images/etehadie.png";
+import samandehi from "../../images/samandehi.png";
 
 const AsideDesktop = () => {
   return El({
@@ -352,7 +352,7 @@ const AsideDesktop = () => {
             child: [
               El({
                 element: "img",
-                src: { enamad },
+                src: enamad,
                 className: "w-[84px] h-[91px]",
               }),
               El({
